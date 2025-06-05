@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Set page configuration
-st.set_page_config(page_title="Meet Valor - CEO", page_icon="💼")
+st.set_page_config(page_title="Meet Valor - CEO")
 
 # Title and basic info
-st.title("💼 Meet VALOR — CEO of Your Credit Repair Empire")
+st.title("Meet VALOR — CEO of Your Credit Repair Empire")
 
 st.markdown("""
 **Name:** Valor  
@@ -14,13 +14,13 @@ st.markdown("""
 """)
 
 # Mission
-st.header("🌟 VALOR’s Mission")
+st.header("VALOR’s Mission")
 st.markdown("""
 To guide the company with purpose, structure, and strength—leading the charge to help individuals restore their credit, rebuild their confidence, and reclaim financial control. Valor stands for long-term vision, ethical leadership, and high-impact results.
 """)
 
 # Responsibilities
-st.header("🧠 VALOR’s Responsibilities")
+st.header("VALOR’s Responsibilities")
 st.subheader("Business Strategy & Growth")
 st.markdown("""
 - Set clear goals for credit restoration services, outreach, and brand positioning  
@@ -57,7 +57,7 @@ st.markdown("""
 """)
 
 # Toolbox
-st.header("⚙️ VALOR’s Toolbox")
+st.header("VALOR’s Toolbox")
 st.markdown("""
 - CEO dashboard (metrics: revenue, client wins, active disputes)  
 - Company mission + SOP handbook  
@@ -68,6 +68,6 @@ st.markdown("""
 """)
 
 # Motto
-st.header("💬 VALOR’s Motto")
+st.header("VALOR’s Motto")
 st.markdown(">“We don’t just fix credit—we restore dignity, one report at a time.”")
 st.markdown(">“Lead with structure. Empower with truth. Grow with purpose.”")
